@@ -1,2 +1,0 @@
-# GradeHubProject
-GradeHubProject
